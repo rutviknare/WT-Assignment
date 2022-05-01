@@ -1,0 +1,31 @@
+<?xml-stylesheet type = "text/xsl" href = "student.xsl"?>
+<Employees>
+	<employee>
+		<id>301</id>
+		<Name>Rutvik Nare</Name>
+		<Date_of_Birth>12-08-2001</Date_of_Birth>
+		<salary>20000</salary>
+	</employee>
+	<employee>
+		<id>302</id>
+		<Name>Rohit kudale</Name>
+		<Date_of_Birth>20-07-2004</Date_of_Birth>
+		<salary>50000</salary>
+
+	</employee>
+	<employee>
+		<id>303</id>
+		<Name>Sarvesh Vedpatahk</Name>
+		<Date_of_Birth>15-04-2001</Date_of_Birth>
+		<salary>60000</salary>
+
+
+	</employee>
+	<employee>
+		<id>304</id>
+		<Name>Ravindra patil</Name>
+		<Date_of_Birth>20-02-1999</Date_of_Birth>
+		<salary>70000</salary>
+
+	</employee>
+</Employees>
